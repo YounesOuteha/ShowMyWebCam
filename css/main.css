@@ -1,0 +1,12 @@
+
+#container {
+    margin: 0px auto;
+    width: 500px;
+    height: 375px;
+    border: 10px rgb(32, 30, 30) solid;
+}
+#videoElement {
+    width: 500px;
+    height: 375px;
+    background-color: rgb(161, 139, 139);
+}
